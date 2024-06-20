@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ:wght@100..400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --azul:#00b4d8;
+    --verde:#3baa0f;
+    --roxo:#4710ad;
+    --azul-forte:#1310e9;
+    --font-texto:"Playwrite NZ", cursive;
+    --fonte-titulo:"Playwrite NZ", cursive;
+}
