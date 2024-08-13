@@ -5,10 +5,10 @@ const caixaResultado = document.querySelector('.caixa-resultado');
 const textoResultado = document.querySelector('.texto-resultado');
 const pergunta =[
     {
-        enunciado: "Pergunta 1",
+        enunciado: "voçê descobriu que recentemente o racismo e a discriminação vem aumentando",
         alternativas: [
             {
-                texto:"Alternativas 1",
+                texto:"voçê descobriu que recentemente o racismo e a discriminação vem aumentando.",
                 afirmacao:  "resultado 1"
             },
             {
@@ -20,7 +20,7 @@ const pergunta =[
         ]
     }, 
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Mais voçê não liga para esse assunto porque voçê acha que isso não e importante para voçê?",
         alternativas: [
             {
                 texto:"Alternativas 3",
