@@ -9,11 +9,11 @@ const pergunta =[
         alternativas: [
             {
                 texto:"voçê descobriu que recentemente o racismo e a discriminação vem aumentando?",
-                afirmacao:  "Nos cenário atual, o preconceito e as práticas discriminação "
+                afirmacao:  "Nos cenário atual, o preconceito e as práticas discriminatórios encontram-se cada vez mais evidentes em nossa sociedade. "
             },
             {
                 texto:"Mais voçê não liga para esse assunto porque voçê acha que isso não e importante para voçê?",
-                afirmacao: "resultado 2"
+                afirmacao: "Anteriormente, era mais comum presenciarmos atos discriminatório por meio de práticas mais no tempo atuais pode-se dizer que os cidadão tá impelida da sensação de impunidade. "
             }
             
           
@@ -24,11 +24,11 @@ const pergunta =[
         alternativas: [
             {
                 texto:"Aos 30 anos voçê viu pessoas fazendo racismo e discriminação pela cor da pele?",
-                afirmacao: "resultado3"
+                afirmacao: "E discriminatorios o preconceito e o conceito ou opinião formados antecipadamente, sem maior moderação ou conhecimento dos fatos."
             },
             {
                 texto:"Aos 33 anos voçê decidiu se juntar a um grupo contra o racismo e a discriminação?",
-                afirmacao: "resultado 4"
+                afirmacao: "Ideia preconcebida; julgamento ou opinião formado sem  levar conta o fato que os contesto suspeito, intolevância, ódio irracional como raça, credos, religiões. "
             }
             
             
