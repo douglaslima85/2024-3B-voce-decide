@@ -20,7 +20,7 @@ const pergunta =[
         ]
     }, 
     {
-        enunciado: "",
+        enunciado: "pergunta 2",
         alternativas: [
             {
                 texto:"Aos 30 anos voçê viu pessoas fazendo racismo e discriminação pela cor da pele?",
@@ -38,12 +38,12 @@ const pergunta =[
         enunciado: "Pergunta 3",
         alternativas: [
             {
-               texto:"Alternativas 5",
-               afirmacao: "resultado 5"
+               texto:"Além da população negra, quais outros grupos são vítimas de racismo e discriminação no Brasil?",
+               afirmacao: "Enfrentando o racismo diretamente muitos brasileiro afirman que não existe discriminação racial no Brasil."
             },
             {
-               texto:"Alternativas 6",
-               afirmacao: "resultado 6"
+               texto:"De que forma os meios de comunicação influenciam as percepções sobre raça e discriminação?",
+               afirmacao: "E há também outros que desconhecem seu preconceito velado e escondido na sociedade que pode passar despercebido. "
             }
             
             
@@ -53,12 +53,12 @@ const pergunta =[
         enunciado: "Pergunta 4",
         alternativas: [
             {
-               texto:"Alternativas 5",
-               afirmacao: "resultado 5"
+               texto:"Quais são os desafios enfrentados por pessoas do racismo e disciminação?",
+               afirmacao: "O racismo e uma forma de preconceito que baseado em caracteristicas fisicas ou étnicas."
             },
             {
-               texto:"Alternativas 6",
-               afirmacao: "resultado 6"
+               texto:"Quais são os principais tipos de discriminação social e como eles afetam diferentes grupos?",
+               afirmacao: "Mais existem inúmeras outras formas de preconceito baseado em condição econômica, religião, gênero, orientação sexual, educação, idade, posicionamento, politica e varios outros preconceito."
             }
             
             
@@ -68,12 +68,12 @@ const pergunta =[
         enunciado: "Pergunta 5",
         alternativas: [
             {
-               texto:"Alternativas 5",
-               afirmacao: "resultado 5"
+               texto:"O impacto do racismo na saúde mental e física das pessoas afetadas?",
+               afirmacao: "É construido em nosso processo de socialização ao obsorver as ideias que expomos ao longo da nossa vida."
             },
             {
-               texto:"Alternativas 6",
-               afirmacao: "resultado 6"
+               texto:"Como o racismo institucional difere do racismo individual?",
+               afirmacao: "A pessoa que faz isso, geralmente, quer valorizar a si próprio e diminuir os demais mesmo de brincadeira."
             }
             
             
