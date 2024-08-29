@@ -5,14 +5,14 @@ const caixaResultado = document.querySelector('.caixa-resultado');
 const textoResultado = document.querySelector('.texto-resultado');
 const pergunta =[
     {
-        enunciado: "pergunta 1",
+        enunciado: "Preconceito é uma opinião que formamos das pessoas antes de conhecê-las.É um julgamento apressado e superficial e muito perigoso, pois ao invés de melhorar a nossa vida e da sociedade, acaba trazendo muitas situações complicadas e até mesmo violentas.",
         alternativas: [
             {
-                texto:"voçê descobriu que recentemente o racismo e a discriminação vem aumentando?",
+                texto:"Você descobriu que recentemente o racismo e a discriminação vêm aumentando?",
                 afirmacao:  "Nos cenário atual, o preconceito e as práticas discriminatórios encontram-se cada vez mais evidentes em nossa sociedade. "
             },
             {
-                texto:"Mais voçê não liga para esse assunto porque voçê acha que isso não e importante para voçê?",
+                texto:"Mais você não liga para esse assunto porque você acha que isso não e importante para voçê?",
                 afirmacao: "Anteriormente, era mais comum presenciarmos atos discriminatório por meio de práticas mais no tempo atuais pode-se dizer que os cidadão tá impelida da sensação de impunidade. "
             }
             
@@ -20,7 +20,7 @@ const pergunta =[
         ]
     }, 
     {
-        enunciado: "pergunta 2",
+        enunciado: "As pessoas que não conseguem deixar de ser preconceituosas podem vir a se tornar racistas. Um racista acredita que existe raças superiores às outras, o que é grande tolice, pois na espécie humana, não podemos dizer que existam raças; a cor da pele, a forma do nariz, o tipo do cabelo, o tipo do sangue, o formato e cor dos olhos, a espessura dos lábios, não são suficientes para estabelecer diferentes tipos de raças",
         alternativas: [
             {
                 texto:"Aos 30 anos voçê viu pessoas fazendo racismo e discriminação pela cor da pele?",
@@ -35,7 +35,7 @@ const pergunta =[
         ]
     },    
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Os seres humanos, que biologicamente são iguais em quase tudo , restando pequenas diferenças externas pouco importantes e que não servem para fazer com que uns sejam superiores ou inferiores aos outros e vice versa.",
         alternativas: [
             {
                texto:"Além da população negra, quais outros grupos são vítimas de racismo e discriminação no Brasil?",
@@ -50,7 +50,7 @@ const pergunta =[
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: "A pessoa que faz isso, geralmente, quer valorizar a si próprio e diminuir os demais mesmo “de brincadeira”.É insegura porque não tem capacidade de conviver com os outros e aceitar as diferenças naturais entre os seres humanos",
         alternativas: [
             {
                texto:"Quais são os desafios enfrentados por pessoas do racismo e disciminação?",
@@ -65,7 +65,7 @@ const pergunta =[
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: "Os preconceituosos e racistas têm dificuldades em aceitar e conviver com a diferença e. às vezes, suas atitudes chegam ao delírio e como são medrosos e inseguros, projetam sobre os outros que são inferiores a eles e que não podem ter os mesmos direitos – quando os racistas e preconceituosos agem dessa maneira estão tratando os que eles julgam como inferiores a ele de maneira discriminatória.",
         alternativas: [
             {
                texto:"O impacto do racismo na saúde mental e física das pessoas afetadas?",
